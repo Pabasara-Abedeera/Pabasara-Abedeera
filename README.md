@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Project-Management Syatem](https://github.com/Fantastic-Five-UOM/project-management-system-backend-.git)
+- 🔭 I’m currently working on [Project-Management Syatem](https://github.com/Fantastic-Five-UOM/project-management-system-backend-.git){:target="_blank"}
 
-  and I Created a fun [Word Game]( https://pabasara-abedeera.github.io/WordGame/)
+-  🙌 And I Created a fun [Word Game](https://pabasara-abedeera.github.io/WordGame/){:target="_blank"}
 
 - 🌱 I’m currently learning **Asp .net**
 
