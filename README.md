@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Project-Management Syatem](https://github.com/Fantastic-Five-UOM/project-management-system-backend-.git)
 
--  🙌 And I Created a fun<a href="https://pabasara-abedeera.github.io/WordGame/" target="_blank"> Word Game</a>
+-  🙌 And I Created a fun <a href="https://pabasara-abedeera.github.io/WordGame/" onclick="window.open('https://pabasara-abedeera.github.io/WordGame/', '_blank'); return false;">Word Game</a>
 
 - 🌱 I’m currently learning **Asp .net**
 
